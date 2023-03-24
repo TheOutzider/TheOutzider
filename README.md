@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TheOutzider
 - 👀 I’m interested in 80's, Magnum PI(1980), Roleplay, Games, and Music
-- 🌱 I’m currently learning HTML/CSS and JavaScript
-- 💞️ I’m looking to collaborate on nothing particular
-- 📫 How to reach me ...
+- 🌱 HTML/SASS and JavaScript(React) dev + learning C# ASP.Net WPF.
 
 <!---
 TheOutzider/TheOutzider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
