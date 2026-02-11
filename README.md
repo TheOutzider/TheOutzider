@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheOutzider
 - 👀 I’m interested in 80's, Magnum PI(1980), Roleplay, Games, and Music
-- 🌱 HTML/SASS and JavaScript(React) dev + learning C# ASP.Net WPF.
+- 🌱 C# ASP.Net WPF, Blazor, SQL, API, Industrial Protocols, Industrial Robot Drivers, ERP...
 
 <!---
 TheOutzider/TheOutzider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
